@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Aditya\\Desktop\\poi-5.2.3.jar",
+        "c:\\Users\\Aditya\\Desktop\\poi-examples-5.2.3.jar",
+        "c:\\Users\\Aditya\\Desktop\\poi-ooxml-5.2.3.jar",
+        "c:\\Users\\Aditya\\Desktop\\poi-ooxml-lite-5.2.3.jar",
+        "c:\\Users\\Aditya\\Desktop\\poi-scratchpad-5.2.3.jar",
+        "c:\\Users\\Aditya\\Desktop\\zxing.jar",
+        "c:\\Users\\Aditya\\Desktop\\javase-3.5.1.jar",
+        "c:\\Users\\Aditya\\Downloads\\zxing-1.7-javase.jar",
+        "c:\\Users\\Aditya\\Downloads\\zxing-core-2.0.jar"
+    ]
+}
